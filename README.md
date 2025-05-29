@@ -65,3 +65,7 @@ Step 5: Play the picture.
 
 
 ## OUTPUT:
+
+
+![image](https://github.com/user-attachments/assets/ed8a7036-a2b0-461f-ae86-6f29b56bc616)
+
