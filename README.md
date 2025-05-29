@@ -72,5 +72,4 @@ Step 5: Play the picture.
 
 
 ## RESULT:
-
-Thus the motion tweening, shape tweening, guide layer and masking using Flash as been done and the output is verified.
+To create a motion tweening, shape tweening, guide layer and masking using Flash is verified.
